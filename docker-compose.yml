@@ -19,4 +19,4 @@ services:
     depends_on:
       - web
   volumes:
-    static_volume:
+    static_volume: null
