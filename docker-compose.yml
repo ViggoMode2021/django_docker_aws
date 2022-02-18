@@ -18,5 +18,5 @@ services:
       - 8000:80
     depends_on:
       - web
-  volumes:
-    static_volume: null
+volumes:
+  static_volume: null
